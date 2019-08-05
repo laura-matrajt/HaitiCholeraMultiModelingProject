@@ -14,3 +14,6 @@ simulations.
 - runFitInPiecesPublic.sh runs the simulations in the cluster.
 - computeProbabilityOfElimination2019AllInfectionsPublic.ipynb computes all the outcome measures (prob of elimination, resurgence, etc) used in the paper. 
 - creates a figure with the proportion of the population of Haiti that is vaccinated each week under each of the different sceanarios. 
+
+
+https://zenodo.org/badge/199940767.svg
