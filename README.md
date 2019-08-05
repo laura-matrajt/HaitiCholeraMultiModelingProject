@@ -16,4 +16,4 @@ simulations.
 - creates a figure with the proportion of the population of Haiti that is vaccinated each week under each of the different sceanarios. 
 
 
-https://zenodo.org/badge/199940767.svg
+[![DOI](https://zenodo.org/badge/199940767.svg)](https://zenodo.org/badge/latestdoi/199940767)
